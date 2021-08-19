@@ -2,4 +2,4 @@ Learn To
 -PHP
 -JavaScript
 -Kotlin
--Python
+-Pascal
